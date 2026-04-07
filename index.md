@@ -30,6 +30,6 @@ HTML/CSS
 
 
 ## Contact Info
-[Linkedln](www.linkedin.com/in/yuting-duan)
+[Linkedln](https://www.linkedin.com/in/yuting-duan/)
 
 Email yuting.duan111@gmail.com
